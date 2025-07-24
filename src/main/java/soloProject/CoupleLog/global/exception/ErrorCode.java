@@ -1,4 +1,4 @@
-package soloProject.CoupleLog.global;
+package soloProject.CoupleLog.global.exception;
 
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
